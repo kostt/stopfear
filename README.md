@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-MIVA built the Stop Fear app as a Free app. This SERVICE is provided by MIVA at no cost and is intended for use as is.
+MIVA MAGIC built the Stop Fear app as a Free app. This SERVICE is provided by MIVA MAGIC at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -61,4 +61,4 @@ This policy is effective as of 2021-09-03
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at yourflet@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at mivamagic@gmail.com.
